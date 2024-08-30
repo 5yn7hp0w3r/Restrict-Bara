@@ -1,4 +1,4 @@
-# Bypass Bypass Linux Restrictions script
+# Bypass Linux Restrictions script
 
 <img src="1.png" alt="Alt text" width="800"/>
 
